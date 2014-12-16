@@ -1,0 +1,49 @@
+.monster{
+  background: #000;
+  width:  50px;
+  height: 50px;
+  position: absolute;
+  top:  180px;
+  left: 300px;
+  border-radius: 50% 50%;
+}
+
+
+.eye{
+  background: #FFF;
+  width:  30%;
+  height: 30%;
+  position: absolute;
+  top: 15%;
+  border-radius: 50% 50%;
+}
+
+.left_eye{
+  left: 15%;
+}
+
+.right_eye{
+  right: 15%;
+}
+
+
+.eye_ball {
+  background: #F00;
+  width:  50%;
+  height: 50%;
+  position: absolute;
+  top: 15%;
+  left: 15%;
+  border-radius: 50% 50%;
+}
+
+
+
+#player{
+  background: url(./ext/hero.png);
+  width:  50px;
+  height: 103px;
+  position: absolute;
+  top:  70px;
+  left: 200px;
+}
