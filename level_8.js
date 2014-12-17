@@ -53,8 +53,8 @@ Monster.prototype.display = display;
 
 Monster.prototype.moveEyes = function (x, y) {
     this.eyeContainers.css({
-        left: 30 * (1 + x) + '%',
-        top:  30 * (1 + y) + '%'
+        left: (15 + 30 * x) + '%',
+        top:  (15 + 30 * y) + '%'
     });
 };
 

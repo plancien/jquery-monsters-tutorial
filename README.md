@@ -1,7 +1,9 @@
-jquery-monsters-tutorial
+JQuery / JS  : Monsters demo
 ========================
 
-An example I used when teaching jquery basics and oriented objects javascript
+An example I used when teaching jquery basics and oriented object JavaScript.
+
+Visit the final step [here](https://cdn.rawgit.com/plancien/jquery-monsters-tutorial/master/level_8.html).
 
 If you want to use it as an exercise :
 * visit every level page to observe what's going on.
